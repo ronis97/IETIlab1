@@ -1,6 +1,6 @@
-# Primer taller de AREP
+# Primer taller de IETI
 
-API Spark web que recoge datos JSON
+Codelab RESTFUL API
 
 ## Preparacion
 
